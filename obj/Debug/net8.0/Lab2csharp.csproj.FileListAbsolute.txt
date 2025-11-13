@@ -1,0 +1,15 @@
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/bin/Debug/net8.0/Lab2csharp
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/bin/Debug/net8.0/Lab2csharp.deps.json
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/bin/Debug/net8.0/Lab2csharp.runtimeconfig.json
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/bin/Debug/net8.0/Lab2csharp.dll
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/bin/Debug/net8.0/Lab2csharp.pdb
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.AssemblyInfoInputs.cache
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.AssemblyInfo.cs
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.csproj.CoreCompileInputs.cache
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.sourcelink.json
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.dll
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/refint/Lab2csharp.dll
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.pdb
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/Lab2csharp.genruntimeconfig.cache
+/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/Debug/net8.0/ref/Lab2csharp.dll

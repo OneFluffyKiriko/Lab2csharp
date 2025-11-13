@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kiriko/Documents/VSwork/Lab2csharp/Lab2csharp.csproj": {}
+    "/home/kiriko/Documents/CSharpLabs/Lab2csharp/Lab2csharp.csproj": {}
   },
   "projects": {
-    "/home/kiriko/Documents/VSwork/Lab2csharp/Lab2csharp.csproj": {
+    "/home/kiriko/Documents/CSharpLabs/Lab2csharp/Lab2csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kiriko/Documents/VSwork/Lab2csharp/Lab2csharp.csproj",
+        "projectUniqueName": "/home/kiriko/Documents/CSharpLabs/Lab2csharp/Lab2csharp.csproj",
         "projectName": "Lab2csharp",
-        "projectPath": "/home/kiriko/Documents/VSwork/Lab2csharp/Lab2csharp.csproj",
+        "projectPath": "/home/kiriko/Documents/CSharpLabs/Lab2csharp/Lab2csharp.csproj",
         "packagesPath": "/home/kiriko/.nuget/packages/",
-        "outputPath": "/home/kiriko/Documents/VSwork/Lab2csharp/obj/",
+        "outputPath": "/home/kiriko/Documents/CSharpLabs/Lab2csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kiriko/.nuget/NuGet/NuGet.Config"
