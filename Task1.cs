@@ -6,7 +6,7 @@ public class Task1
     {
     //1. Створити програму згідно свого варіанта, використати конструкцію switch...case
     //Написати програму, яка виводить назву знака зодіака за його порядковим номером.
-        int con = 1;
+        int con = 3;
         Console.WriteLine($"Exercise 1. \n The zodiac sign is: {con}");
         Console.WriteLine("The corresponding zodiac sign is: ");
         switch (con)

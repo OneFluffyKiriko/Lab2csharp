@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab2csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bbdd361ca4d539865624996ab7928d29be19e19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8533a461dcc9ae821c21601d083d4b7b007b8563")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab2csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab2csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
